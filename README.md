@@ -18,7 +18,7 @@
 
 
 #### 2. Negative
-`Subject + Auxiliary + NOT + Verb + Complement`
+`Subject + Auxiliary (do/does) + NOT + Verb + Complement`
 
 **Example**: I don't get up at 7 o'clock.
 
@@ -30,7 +30,7 @@
 
 
 #### 3. Question
-`(Wh-Question) Auxiliary + Subject + Verb + Complement?`
+`(Wh-Question) Auxiliary (do/does) + Subject + Verb + Complement?`
 
 **Example**: Do you get up at 7 o'clock? Yes, I do.
 
@@ -45,6 +45,40 @@ __________________
 ### Present Continuous
 
 - For events are happening
+
+#### 1. Affirmative
+`Subject + Auxiliary (to be) + Verb (ING)`
+
+**Example**: I'm working.
+
+**Example**: I am working.
+
+**Example**: He is dancing.
+
+
+#### 2. Negative
+`Subject + Auxiliary (to be) + NOT + Verb (ING)`
+
+**Example**: You aren't dancing.
+
+**Example**: You are not dancing.
+
+**Example**: She isn't dancing.
+
+**Example**: She is not dancing.
+
+
+#### 3. Question
+`(Wh-Question) Auxiliary (to be) + Subject + Verb (ING)?`
+
+**Example**: Are you watching a video? Yes, I'm.
+
+**Example**: He/She/It is watching a video? Yes, he is watching a video.
+
+**Example**: What is he/she/it eating? He's eating an apple.
+
+**Example**: How much are you paying for rent? I'm paying $1000USD a month for rent.
+
 
 __________________
 
